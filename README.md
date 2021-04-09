@@ -25,3 +25,9 @@ If you are uploading from Windows, you will get this cryptic error (`Stderr:/usr
 You can easily fix the problem in Notepad++ for the `\.platform\hooks\postdeploy\00_get_certificate.sh` file:
 
 ![image](https://user-images.githubusercontent.com/45280066/114211079-3152fe00-992e-11eb-8d6b-4618086a2623.png)
+
+---
+
+### Reference:
+
+- https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/https-singleinstance-go.html
